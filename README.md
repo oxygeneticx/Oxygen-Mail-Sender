@@ -56,16 +56,16 @@ It Works for Email Body, Subject, From Email and even From Name!
 - Encode email receiver to base64
 
 [emailusername]
-- Get username from email receiver. Example: anonsender@firdy.dev => anonsender
+- Get username from email receiver. Example: sender@oxygen.com => sender
 
 [domainuc]
-- Get domain of email receiver with uppercase in first word. Example: anonsender@firdy.dev => Dev
+- Get domain of email receiver with uppercase in first word. Example: sender@oxygen.com => Com
 
 [domain]
-- Get domain of email receiver. Example: anonsender@firdy.dev => dev
+- Get domain of email receiver. Example: sender@oxygen.com => com
 
 [dotdomain]
-- Get domain of email receiver with dot (.). Example: anonsender@firdy.dev => .dev
+- Get domain of email receiver with dot (.). Example: sender@oxygen.com => .com
 ```
 
 ## Tutorial
